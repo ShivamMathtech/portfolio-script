@@ -1,0 +1,26 @@
+portfolio-website/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   ├── fonts/
+│   └── icons/
+├── css/
+│   └── main.css
+├── js/
+│   └── main.js
+├── components/
+│   ├── header.html
+│   ├── footer.html
+│   ├── about.html
+│   ├── projects.html
+│   └── contact.html
+├── styles/
+│   └── variables.css
+├── scripts/
+│   ├── animation.js
+│   ├── navigation.js
+│   └── form.js
+└── README.md
